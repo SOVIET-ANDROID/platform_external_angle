@@ -29,7 +29,7 @@
             android:title="@string/use_angle_for_all_apps"
             android:summary="@string/global_settings_driver_all_angle"
             android:defaultValue="false"
-            android:enabled="false"/>
+            android:enabled="true"/>
 
         <androidx.preference.SwitchPreference
             android:key="@string/pref_key_angle_in_use_dialog"
